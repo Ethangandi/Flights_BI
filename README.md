@@ -7,5 +7,6 @@ Process:
   -made a subset containing data from the month of December and airlines Southwest and American
   -cleaned/reformatted data, changed col names for readability
   -merged the subsetted dataset with the Airports dataframe to add locaiton data for the "destination airport" for each flight 
-  -exported dataset to use in Power BI
+  -subsetted the subsetted dataset to make a new dataset exclusivly containing info on cancelled flights
+  -Uploaded datasets to Power BI
   -attempted to make a nice dashboard
