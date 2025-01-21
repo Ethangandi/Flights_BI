@@ -1,6 +1,6 @@
 Here I've made a dashboard using the 'Flights 2015' dataset from kaggle. Within it I displayed analytics on: flight delays, flight destinations, flight paths, and more between Southwest and American Airlines.
 
-Important: I only used data from the month of December due the the emmense size of the main dataset (5.8 million lines). The main dataset was coupled with another dataset containing info on each airport
+Important: I only used data from the month of December due the the immense size of the main dataset (5.8 million lines). The main dataset was coupled with another dataset containing info on each airport
 
 Process:
   -imported data
